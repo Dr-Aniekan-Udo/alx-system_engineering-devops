@@ -3,8 +3,8 @@
     Directory: 0x00-shell_basics
     File: "filename"
 
-<h2>Task questions
-0. Where am I?</h2>
+<h2>Task questions</h2>
+<br>0. Where am I
 Write a script that prints the absolute path name of the current working directory.
 1. What’s in there?
 Display the contents list of your current directory.
