@@ -24,11 +24,11 @@ All of the following files are scripts:
 
 # System engineering & Devops
 
-Module of **System engineering** and **Devops**, carried out during **Full Stack Software Engineering studies** at **[Holberton School](https://www.holbertonschool.com/)**.
+Module of **System engineering** and **Devops**, carried out during **Full Stack Software Engineering studies** at **[ALX/Holberton School](https://www.holbertonschool.com/)**.
 
 ## Technologies
 * Scripts written in Bash 4.3.11(1)
-* Tested on Ubuntu 14.04 LTS
+* Tested on Ubuntu 20.04 LTS
 * Puppet 3.8
 
 ## Projects
